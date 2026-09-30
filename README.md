@@ -1,2 +1,24 @@
-# apple-premium-motion-design-guide
-Copy-ready premium motion design prompt for Opus 5.5 — visual systems, storyboards, motion, sound, and delivery.
+<!--
+[INPUT]: 依赖 PROMPT.md 中的完整提示词正文
+[OUTPUT]: 对外提供项目简介、使用说明与提示词入口
+[POS]: 仓库首页，帮助读者快速理解并复制这套动态设计提示词
+[PROTOCOL]: 变更时更新此头部，然后检查 CLAUDE.md
+-->
+
+# Apple Premium Motion Design Guide for Opus 5.5
+
+一套用于将 brief 与素材转化为高级动态视频的提示词，覆盖视觉系统、分镜、动效、声音与交付标准。
+
+## 使用
+
+复制 [PROMPT.md](PROMPT.md) 中代码块内的完整提示词，连同你的 brief 与素材一起提交给模型。brief 建议说明主题、受众、核心信息、时长和输出格式。
+
+提示词要求模型先建立视觉规则与关键静帧，再组织动效、声音和最终交付；如果无法渲染，也必须给出可执行的逐镜头制作说明。
+
+## 文件
+
+- [PROMPT.md](PROMPT.md)：完整、可直接复制的提示词。
+
+## 来源
+
+根据用户提供的图片转录，保留英文原文，仅调整换行以便阅读。本仓库不是 Apple 官方项目。原图未注明作者或许可证，因此暂不为原文指定许可证。
